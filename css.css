@@ -1,0 +1,9 @@
+.favorite {
+    background-image: url("heart.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+#group {
+    border: 1px solid black;
+}
